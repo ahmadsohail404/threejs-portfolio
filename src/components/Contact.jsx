@@ -31,10 +31,6 @@ const Contact = () => {
     e.preventDefault();
     setLoading(true);
 
-    // service_5cf7348
-// template_f961u9b
-// oBNqdqcLB13cv7RyE
-
     emailjs
       .send(
         import.meta.env.VITE_EMAILJS_SERVICE_ID,
