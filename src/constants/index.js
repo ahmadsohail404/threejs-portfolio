@@ -310,8 +310,8 @@ const projects = [
       },
     ],
     image: arcompanion,
-    source_code_link: "https://github.com/ahmadsohail404/vorm-the-formbuilder",
-    live_site_link: "https://vorm-the-formbuilder.netlify.app/#/"
+    source_code_link: "https://github.com/BugsApocalypse/AR-companion",
+    live_site_link: "https://play.google.com/store/apps/details?id=com.adityagupta.arcompanion"
   },
 ];
 

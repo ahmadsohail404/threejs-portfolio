@@ -40,9 +40,9 @@ const Navbar = () => {
             window.scrollTo(0, 0);
           }}
         >
-          <img src={logo} alt='logo' className='w-13 h-9 object-contain' />
+          <img src={logo} alt='logo' className='w-15 h-9 object-contain' />
           <p className='text-white text-[18px] font-bold cursor-pointer flex '>
-            <span className='sm:block hidden'>Fullstack Developer</span>
+            <span className='sm:block hidden pt-1'>Fullstack Developer</span>
           </p>
         </Link>
 
